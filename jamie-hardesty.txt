@@ -111,6 +111,7 @@ Stretch Questions
             Inline-block:
                     1. <button>, <select>
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
-            
+            Box model: content is surrounded by padding, margin, and a border. 
+            box-sizing: border-box;
 
 
